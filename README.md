@@ -1,4 +1,4 @@
 # Music-Organizer
-I created this because of some legacy music library/folder structures that had songs from a single album in many differnet folders. This utility organizes music folder structures into a logical grouping of artist name folders containing albumn folders. Enjoy.
+This is a music library organizer that I created for my girlfriend at the time to organize disparate music libraries, where songs for a single album could be located in multiple, randomly named, folders. The music organizer will create a sensical folder structure, based on artist, then album, and organize the songs accordingly.
 
-Path values are still hard coded....the values were meant to run over a network....I need to make the paths configuration values in the app.config file.
+Path values are located in app.config....the values were meant to run over a network, but can be any logical path.
